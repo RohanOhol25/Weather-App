@@ -1,0 +1,47 @@
+    body{
+        background-color: lightblue;
+        z-index: -1;
+        background-image: url('https://t4.ftcdn.net/jpg/06/14/46/77/360_F_614467744_7eLjYhKWJIvnu8fk8MTp9VXFYpB15J3p.jpg');
+        background-size: cover;
+    }
+    .one{
+        background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210324/pngtree-abstract-playful-portfolio-pink-memphis-image_593415.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 30px;
+        border-radius:25px; 
+        height: 520px; 
+        width: 500px
+    }
+    .one:hover{
+        box-shadow: 1px 1px 15px rgb(18, 160, 207);
+        z-index: 1;
+    }
+    input{
+        border-radius: 10px; 
+        border: none;
+        padding: 8px; 
+        text-align: center;
+        margin-top: 5px;
+        margin: 10px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    input:hover{
+      box-shadow: 1px 1px 10px red;
+    }
+    button{
+        width: 115px;
+        padding: 7px;
+        border-radius: 10px;
+        border: none;
+        font-size: 15px; 
+        font-weight: bolder;
+    }
+    image{
+        height: 50px;
+        width: 50px;
+    }
+    span{
+        color: orangered;
+    }
